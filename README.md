@@ -1,1 +1,0 @@
-# Adapt-v_rendszerek_feladat
