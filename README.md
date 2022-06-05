@@ -1,4 +1,4 @@
-# Házi Feladat - Adaptiv rendszerek modellezése
+# Házi Feladat - Adaptív rendszerek modellezése
 Készítette: Melicher Martin, Palásty Barnabás
 
 ## Modell
