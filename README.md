@@ -31,7 +31,6 @@ ugyanis legtöbb esetben nem működött rendesen (azaz beakadt), vagy pedig nag
 
 ### A feladat megoldásához felhasznált linkek a teljesség igénye nélkül
 
-A teljesség igénye nélkül néhány oldal, ahol segítségre leltünk:
 
 Build Your First Neural Network with PyTorch | Curiousily - Hacker's Guide to Machine Learning
 	https://curiousily.com/posts/build-your-first-neural-network-with-pytorch/
